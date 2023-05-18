@@ -5,6 +5,6 @@
 <!-- [![image](screenshot.JPG)](https://usecontext-usereducer-statelifting.netlify.app/) -->
 <!-- ![Screenshot](client/ScreenShoot.jpg) -->
 
-[![image](Image.JPG)](https://usecontext-usereducer-statelifting.netlify.app/)
+[![image](Capture.JPG)](https://usecontext-usereducer-statelifting.netlify.app/)
 
 
